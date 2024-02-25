@@ -8,4 +8,6 @@ some other text
 
 # chapter 2
 
-suca
+1. suca
+2. ciccia
+3. cacca
